@@ -1,0 +1,13 @@
+C:\Users\utilisateur\source\repos\FoodtruckWPFApp\FoodtruckApp\bin\Debug\FoodtruckApp.exe.config
+C:\Users\utilisateur\source\repos\FoodtruckWPFApp\FoodtruckApp\bin\Debug\FoodtruckApp.exe
+C:\Users\utilisateur\source\repos\FoodtruckWPFApp\FoodtruckApp\bin\Debug\FoodtruckApp.pdb
+C:\Users\utilisateur\source\repos\FoodtruckWPFApp\FoodtruckApp\bin\Debug\Prism.dll
+C:\Users\utilisateur\source\repos\FoodtruckWPFApp\FoodtruckApp\bin\Debug\System.ValueTuple.dll
+C:\Users\utilisateur\source\repos\FoodtruckWPFApp\FoodtruckApp\bin\Debug\Prism.pdb
+C:\Users\utilisateur\source\repos\FoodtruckWPFApp\FoodtruckApp\bin\Debug\Prism.xml
+C:\Users\utilisateur\source\repos\FoodtruckWPFApp\FoodtruckApp\bin\Debug\System.ValueTuple.xml
+C:\Users\utilisateur\source\repos\FoodtruckWPFApp\FoodtruckApp\obj\Debug\FoodtruckApp.csprojAssemblyReference.cache
+C:\Users\utilisateur\source\repos\FoodtruckWPFApp\FoodtruckApp\obj\Debug\FoodtruckApp.csproj.CoreCompileInputs.cache
+C:\Users\utilisateur\source\repos\FoodtruckWPFApp\FoodtruckApp\obj\Debug\FoodtruckApp.csproj.CopyComplete
+C:\Users\utilisateur\source\repos\FoodtruckWPFApp\FoodtruckApp\obj\Debug\FoodtruckApp.exe
+C:\Users\utilisateur\source\repos\FoodtruckWPFApp\FoodtruckApp\obj\Debug\FoodtruckApp.pdb
